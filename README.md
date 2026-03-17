@@ -99,6 +99,9 @@ Base URL: `http://localhost:3000`
 
 ## 📸 Screenshots
 
+### Row Data - Note: Data ID 1 tidak ada karena ditest untuk query delete jadi hanya menampilkan data dari ID 2-12
+![Terminal Screenshot](https://github.com/user-attachments/assets/f9036055-695d-46e8-a50d-f13a69fccc52)
+
 ### Postman - Created
 ![Postman Screenshot](https://github.com/user-attachments/assets/29832400-1981-4102-a223-bf7c6729223e)
 
