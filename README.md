@@ -108,3 +108,8 @@ Base URL: `http://localhost:3000`
 ### Postman - Delete
 ![Postman Screenshot](https://github.com/user-attachments/assets/ed62aa52-359b-4fa9-98ed-b8122728d072)
 
+---
+
+## 👤 Author
+
+**Davin Gabriel Jonathan** — Member Backend Dev GDGoC Unsri 2026
