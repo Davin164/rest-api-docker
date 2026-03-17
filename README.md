@@ -99,8 +99,9 @@ Base URL: `http://localhost:3000`
 
 ## 📸 Screenshots
 
-### Postman - 201 Created
-![Postman Screenshot](https://github.com/user-attachments/assets/e5c111ce-c287-481b-9fc5-44bf755675ac)
+### Postman - Created
+![Postman Screenshot](https://github.com/user-attachments/assets/29832400-1981-4102-a223-bf7c6729223e)
 
-### Database - Row Data
-![Database Screenshot](screenshots/database.png)
+### Postman - Delete
+![Postman Screenshot](https://github.com/user-attachments/assets/29832400-1981-4102-a223-bf7c6729223e)
+
