@@ -102,6 +102,6 @@ Base URL: `http://localhost:3000`
 ### Postman - Created
 ![Postman Screenshot](https://github.com/user-attachments/assets/29832400-1981-4102-a223-bf7c6729223e)
 
-### Postman - Delete
-![Postman Screenshot](https://github.com/user-attachments/assets/29832400-1981-4102-a223-bf7c6729223e)
+### Postman - Update
+![Postman Screenshot](https://github.com/user-attachments/assets/4d93b52f-e975-42bf-92a9-bf4bf10cc0ac)
 
