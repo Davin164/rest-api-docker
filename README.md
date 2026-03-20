@@ -8,7 +8,7 @@ Simple REST API built with Express.js and PostgreSQL, containerized with Docker 
 - **Framework:** Express.js
 - **Database:** PostgreSQL 15
 - **Driver:** node-postgres (pg)
-- **Containerization:** Docker & Docker Compose
+- **Container:** Docker & Docker Compose
 
 ## 📁 Project Structure
 ```
