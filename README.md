@@ -1,4 +1,4 @@
-# 🚀 REST API - CRUD Products
+# 🚀 REST API - CRUD Data Products
 
 Simple REST API built with Express.js and PostgreSQL, containerized with Docker Compose.
 
