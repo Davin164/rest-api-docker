@@ -69,7 +69,7 @@ Base URL: `http://localhost:3000`
 | `PUT` | `/api/products/:id` | Update produk |
 | `DELETE` | `/api/products/:id` | Hapus produk |
 
-## 📦 Contoh Request & Response
+## 📦 Contoh Request & Response API
 
 ### POST /api/products
 
